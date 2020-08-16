@@ -11,3 +11,8 @@ begin
    done
    count number of 1s as active, and number of 0s as inactive, then return the values.
 end
+
+
+
+
+The algorithm has complexity of order Big O(n*m)
